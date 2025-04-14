@@ -1,5 +1,5 @@
 # To check whether a string is derivable or not from a given grammer 
-## Aim: 
+## Aim
 To implement a bottom-up parsing algorithm using a queue-based approach to simulate 
 the parsing of a string based on a given context-free grammar (CFG). The program also provides 
 tracing of the steps taken during the parsing process, allowing the user to see how the input string 
@@ -48,10 +48,11 @@ o Print the production applied or the terminal matched for each step.
 The given context free grammar is : 
 S-> AA 
 A->aA|b
+![Screenshot](https://raw.githubusercontent.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/main/Screenshot%202025-04-14%20104004.png)
 
 Case 1 :  
 Input : aabb 
-
+![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104012.png)?raw=true
 Case 2: 
 Input : ab 
  
