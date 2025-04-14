@@ -55,32 +55,32 @@ Input : aabb
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104012.png)?raw=true
 Case 2: 
 Input : ab 
- 
+![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104349.png)?raw=true
+
 Case 3: 
 Input : ababab 
- 
+![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104356.png)?raw=true
+
 Case 4 
 Input : aaaaaab 
+![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104405.png)?raw=true
+![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104411.png)?raw=true
 
 Case 5: 
 Input : abb 
+![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104417.png)?raw=true
+
 ## Conclusion: 
 In this program, we have implemented a bottom-up parser using a queue-based approach to 
 simulate the parsing of a string against a given context-free grammar (CFG). The key feature of 
-this implementation is the ability to trace the parsing process, which is helpful in understanding 
-how the input string is gradually processed according to the grammar’s productions. 
-The tracing feature was added to ensure that the path taken by the parser is clearly visualized. By 
-printing each step, including the symbol being processed and productions applied, users can 
+this implementation is the ability to trace the parsing process, which is helpful in understanding how the input string is gradually processed according to the grammar’s productions. 
+The tracing feature was added to ensure that the path taken by the parser is clearly visualized. By printing each step, including the symbol being processed and productions applied, users can 
 observe how the program moves through the grammar and matches the input string. This tracing of 
 the path adds a level of clarity and transparency, making the parsing process more 
 understandable, especially for educational purposes or debugging. 
 The approach demonstrates a queue-based simulation of a parsing algorithm where non
-terminals are progressively expanded into their respective productions, and terminals are matched 
-to the input string. If a string is successfully parsed, the program outputs “String is accepted”; 
-otherwise, it outputs “String is rejected.” 
-To ensure uniqueness in this implementation, tracing the parsing path at each significant step is 
-included. This feature allows the program to provide an in-depth look at how the parser processes 
-the input string, providing a clear, step-by-step visualization of the parsing process. 
+terminals are progressively expanded into their respective productions, and terminals are matched to the input string. If a string is successfully parsed, the program outputs “String is accepted”; otherwise, it outputs “String is rejected.” 
+To ensure uniqueness in this implementation, tracing the parsing path at each significant step is included. This feature allows the program to provide an in-depth look at how the parser processes the input string, providing a clear, step-by-step visualization of the parsing process. 
 Overall, the implementation serves as a functional and informative tool for demonstrating the 
 principles of context-free grammar parsing, with added traceability for improved understanding 
 and debugging.
