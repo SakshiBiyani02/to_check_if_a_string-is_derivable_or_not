@@ -51,16 +51,25 @@ The given context free grammar is :
 ![Screenshot](https://raw.githubusercontent.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/main/Screenshot%202025-04-14%20104004.png)
 
 ## Output 
-1. Case 1 :  Input : aabb 
+### 1. Case 1 :  Input : aabb
+
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104012.png)
-2. Case 2: Input : ab 
+
+### 2. Case 2: Input : ab 
+
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104349.png)
-3. Case 3: Input : ababab 
+
+### 3. Case 3: Input : ababab
+   
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104356.png)
-4. Case 4 Input : aaaaaab 
+
+### 4. Case 4 Input : aaaaaab 
+
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104405.png)
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104411.png)
-5. Case 5: Input : abb 
+
+### 5. Case 5: Input : abb
+
 ![Screenshot](https://github.com/SakshiBiyani02/to_check_if_a_string-is_derivable_or_not/blob/main/Screenshot%202025-04-14%20104417.png)
 
 ## Conclusion: 
